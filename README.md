@@ -3,3 +3,8 @@
 
 
 Under development
+
+
+![Screenshot_LTspice_schematic](Images/LTspice_schematic.png)
+
+![Screenshot_LTspice_AC_simulation](Images/LTspice_AC_simulation.png)
